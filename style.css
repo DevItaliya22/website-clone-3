@@ -141,7 +141,7 @@ body{
     height: 30vw;
     width: 30vw;
     border-radius: 50%;
-    animation: anime2 3s linear alternate infinite;
+    animation: anime2 6s linear alternate infinite;
 }
 #hero-3{
     position: absolute;
@@ -149,7 +149,7 @@ body{
     height: 20vw;
     width: 30vw;
     border-radius: 50%;
-    animation: anime1 5s linear alternate infinite;
+    animation: anime1 6s linear alternate infinite;
 }
 
 @keyframes anime1 {
