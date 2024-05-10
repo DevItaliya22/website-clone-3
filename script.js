@@ -36,3 +36,10 @@ var swiper = new Swiper(".mySwiper", {
       clickable: true,
     },
   });
+
+  var loader = document.querySelector(".loader");
+  var txtLoader = document.querySelector(".text-loader");
+  
+setTimeout(async () => {
+    loader.style.top = "-100%";
+}, 4000);
